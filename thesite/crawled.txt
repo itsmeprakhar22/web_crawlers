@@ -12,6 +12,7 @@ https://en.blog.wordpress.com/2012/10/04/tiled-image-galleries/?like_comment=161
 https://en.blog.wordpress.com/2012/10/04/tiled-image-galleries/?like_comment=162036&_wpnonce=733fd18bc4
 https://en.support.wordpress.com/
 https://en.support.wordpress.com/browser-issues/
+https://en.support.wordpress.com/browser-issues/#clearing-wordpress-com-cookies
 https://en.support.wordpress.com/browser-issues/#country-blocks
 https://en.support.wordpress.com/category/design/customize/widgets-sidebars/
 https://en.support.wordpress.com/category/hosting/
@@ -35,6 +36,8 @@ https://en.support.wordpress.com/wordpress-editor/blocks/gallery-block/2/
 https://en.support.wordpress.com/wordpress-editor/blocks/paragraph-block/
 https://store.wordpress.com/
 https://thegirlnextdoorisblack.wordpress.com/2014/09/11/about-this-texting-thing/comment-page-1/#comment-4033
+https://thegirlnextdoorisblack.wordpress.com/tag/city-life/
+https://thegirlnextdoorisblack.wordpress.com/tag/jay-z/
 https://thegirlnextdoorisblack.wordpress.com/tag/pedestrians/
 https://uniquecoder.wordpress.com
 https://uniquecoder.wordpress.com/
@@ -52,6 +55,7 @@ https://uniquecoder.wordpress.com/#comment-form-load-service:Twitter
 https://uniquecoder.wordpress.com/#comment-form-load-service:WordPress.com
 https://uniquecoder.wordpress.com/#content
 https://uniquecoder.wordpress.com/#facebook-pages
+https://uniquecoder.wordpress.com/#footer
 https://uniquecoder.wordpress.com/#google-profiles-and-pages
 https://uniquecoder.wordpress.com/#instagram-embeds
 https://uniquecoder.wordpress.com/#instructions-for-sites-with-plugins-and-custom-themes
@@ -114,6 +118,7 @@ https://uniquecoder.wordpress.com/documentation/
 https://uniquecoder.wordpress.com/home
 https://uniquecoder.wordpress.com/theme/cocoa
 https://uniquecoder.wordpress.com/theme/shoreditch
+https://uniquecoder.wordpress.com/themes/business/filter/blog
 https://uniquecoder.wordpress.com/themes/filter/feature:custom-colors/
 https://uniquecoder.wordpress.com/themes/portfolio/filter/blog
 https://vip.wordpress.com/

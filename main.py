@@ -42,4 +42,4 @@ def work():
         queue.task_done()
 
 create_workers()
-crawl()
+# crawl()
