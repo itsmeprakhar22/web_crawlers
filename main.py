@@ -5,7 +5,7 @@ from domain import *
 from demo import *
 
 PROJECT_NAME = 'thesite'
-HOMEPAGE = 'https://uniquecoder.wordpress.com/'
+HOMEPAGE = 'your-url-here'
 DOMAIN_NAME = get_domain_name(HOMEPAGE)
 QUEUE_FILE = PROJECT_NAME + '/queue.txt'
 CRAWLED_FILE = PROJECT_NAME + '/crawled.txt'
@@ -42,4 +42,4 @@ def work():
         queue.task_done()
 
 create_workers()
-# crawl()
+crawl()
